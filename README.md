@@ -1,7 +1,7 @@
 # hdf5_Nexi
 this is the hdf5 for one of the files in folder
 # Neftali Eunice Romero
-''' Last updated: August 12, 2016
+''' Last updated: August 15, 2016
  this program converts the blued data to an hdf5 structure.
  the structure will have two files with multiple groups.
  the first file will contain the source data.
